@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Speech demo</string>
+    <string name="FAQ">F A Q</string>
+    <string name="chat">ChatGPT</string>
+    <string name="input_text">在此处输入文本</string>
+</resources>
